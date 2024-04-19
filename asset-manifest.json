@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d2dd684.css",
+    "main.js": "/static/js/main.9de2afba.js",
+    "static/media/FZLTHProGBK_SB.TTF": "/static/media/FZLTHProGBK_SB.e32337753ed91a59903e.TTF",
+    "static/media/dress.png": "/static/media/dress.298d7c468a0fd5cd3cb5.png",
+    "static/media/Remove-bg.ai_1713274468747(1).png": "/static/media/Remove-bg.ai_1713274468747(1).0541f4e5f3246b1c414b.png",
+    "static/media/cloth.jpg": "/static/media/cloth.9a685652e6ff9b38e63d.jpg",
+    "static/media/loading.svg": "/static/media/loading.99e3948b68b9b68d96b4.svg",
+    "index.html": "/index.html",
+    "main.4d2dd684.css.map": "/static/css/main.4d2dd684.css.map",
+    "main.9de2afba.js.map": "/static/js/main.9de2afba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d2dd684.css",
+    "static/js/main.9de2afba.js"
+  ]
+}
